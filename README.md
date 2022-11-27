@@ -8,7 +8,9 @@ In this study, 249 mice who were identified with SCC tumors received treatment w
 tumor development was observed and measured.
 The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
-Analysis created:
+Analysis created: 
+Using Matplotlib and Pandas to generate the following;
+
 A summary table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for all drug regimen used.
 
 A bar plot using Pandas's DataFrame and Matplotlib pyplot that shows the number of mice tested for each treatment regimen.
