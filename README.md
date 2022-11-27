@@ -9,7 +9,7 @@ tumor development was observed and measured.
 The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 Analysis created: 
-Using Matplotlib and Pandas to generate the following;
+Using Matplotlib and Pandas on jupyter notbook, generate the following;
 
 A summary table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for all drug regimen used.
 
