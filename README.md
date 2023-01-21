@@ -1,4 +1,4 @@
-#Pymaceuticals, Inc. specializing in anti-cancer medications analysis
+# Pymaceuticals, Inc. specializing in anti-cancer medications analysis
 
 Situation: As a senior data analyst at a new pharmaceutical company that specializes in anti-cancer medications,
 you've been given access to the complete data from their most recent animal study. 
